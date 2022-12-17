@@ -48,7 +48,6 @@ class IpImageProcess:
     def set_threshold(self, thr):
         pass
 
-
     def set_hist(self):
         pass
 
